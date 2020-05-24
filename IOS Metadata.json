@@ -324,7 +324,7 @@
         {
           "abbreviation" : "PSU",
           "prestige" : "83",
-          "hexColor" : "#001E44,
+          "hexColor" : "#001E44",
           "rival" : "OSU",
           "headCoach" : {
             "contractLength" : "3",
