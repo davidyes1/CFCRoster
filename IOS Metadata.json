@@ -2747,7 +2747,7 @@
           "abbreviation" : "JMU",
           "prestige" : "25",
           "hexColor" : "#450084",
-          "rival" : "W&M",
+          "rival" : "WM",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2888,7 +2888,7 @@
           "state" : "Rhode Island"
         },
         {
-          "abbreviation" : "W&M",
+          "abbreviation" : "WM",
           "prestige" : "25",
           "hexColor" : "#115740",
           "rival" : "JMU",
