@@ -2125,7 +2125,7 @@
         {
           "abbreviation" : "UNT",
           "prestige" : "50",
-          "hexColor" : "#FF2000",
+          "hexColor" : "#00853E",
           "rival" : "UTEP",
           "headCoach" : {
             "contractLength" : "6",
@@ -2221,7 +2221,7 @@
       ],
       "confFullName" : "Conference USA",
       "confPrestige" : "36",
-      "confName" : "C-USA"
+      "confName" : "CUSA"
     },
     {
       "confTeams" : [
