@@ -371,7 +371,7 @@
         },
         {
           "abbreviation" : "WIS",
-          "prestige" : "81"
+          "prestige" : "81",
           "hexColor" : "#C5050C",
           "rival" : "MINN",
           "headCoach" : {
@@ -937,7 +937,7 @@
         },
         {
           "abbreviation" : "KSU",
-          "prestige" : "70"
+          "prestige" : "70",
           "hexColor" : "#512888",
           "rival" : "KS",
           "headCoach" : {
