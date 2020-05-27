@@ -244,7 +244,7 @@
         }
       ],
       "confFullName" : "Southeastern Conference",
-      "confPrestige" : "92",
+      "confPrestige" : "95",
       "confName" : "SEC"
     },
     {
@@ -491,7 +491,7 @@
         }
       ],
       "confFullName" : "Big Ten",
-      "confPrestige" : "88",
+      "confPrestige" : "93",
       "confName" : "B1G"
     },
     {
@@ -738,7 +738,7 @@
         }
       ],
       "confFullName" : "Atlantic Coastal Conference",
-      "confPrestige" : "83",
+      "confPrestige" : "91",
       "confName" : "ACC"
     },
     {
@@ -985,7 +985,7 @@
         }
       ],
       "confFullName" : "Big 12",
-      "confPrestige" : "88",
+      "confPrestige" : "93",
       "confName" : "XII"
     },
     {
@@ -1232,7 +1232,7 @@
         }
       ],
       "confFullName" : "Pac 12",
-      "confPrestige" : "84",
+      "confPrestige" : "90",
       "confName" : "PAC"
     },
     {
@@ -2714,7 +2714,7 @@
         }
       ],
       "confFullName" : "Missouri Valley FCS",
-      "confPrestige" : "27",
+      "confPrestige" : "20",
       "confName" : "MVFC"
     },
     {
@@ -2961,7 +2961,7 @@
         }
       ],
       "confFullName" : "Colonial Athletic FCS",
-      "confPrestige" : "25",
+      "confPrestige" : "20",
       "confName" : "CAA"
     }
   ],
