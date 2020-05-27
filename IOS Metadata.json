@@ -745,7 +745,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UT",
-          "prestige" : "77",
+          "prestige" : "80",
           "hexColor" : "#BF5700",
           "rival" : "OU",
           "headCoach" : {
@@ -817,7 +817,7 @@
         },
         {
           "abbreviation" : "TCU",
-          "prestige" : "81",
+          "prestige" : "78",
           "hexColor" : "#4D1979",
           "rival" : "BAYL",
           "headCoach" : {
