@@ -1239,7 +1239,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "72",
+          "prestige" : "70",
           "hexColor" : "#B7A369",
           "rival" : "USF",
           "headCoach" : {
@@ -1287,7 +1287,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "70",
+          "prestige" : "68",
           "hexColor" : "#E00112",
           "rival" : "MEM",
           "headCoach" : {
@@ -1311,7 +1311,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "64",
+          "prestige" : "62",
           "hexColor" : "#003087",
           "rival" : "CIN",
           "headCoach" : {
@@ -1479,7 +1479,7 @@
         }
       ],
       "confFullName" : "American Athletic Conference",
-      "confPrestige" : "57",
+      "confPrestige" : "48",
       "confName" : "AAC"
     },
     {
