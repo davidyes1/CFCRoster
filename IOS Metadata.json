@@ -2474,7 +2474,7 @@
       "confTeams" : [
         {
           "abbreviation" : "NDSU",
-          "prestige" : "28",
+          "prestige" : "25",
           "hexColor" : "#0A5640",
           "rival" : "SDSU",
           "headCoach" : {
@@ -2498,7 +2498,7 @@
         },
         {
           "abbreviation" : "SDSU",
-          "prestige" : "34",
+          "prestige" : "25",
           "hexColor" : "#0033A0",
           "rival" : "NDSU",
           "headCoach" : {
@@ -2546,7 +2546,7 @@
         },
         {
           "abbreviation" : "INST",
-          "prestige" : "30",
+          "prestige" : "25",
           "hexColor" : "#003DA7",
           "rival" : "YSU",
           "headCoach" : {
@@ -2570,7 +2570,7 @@
         },
         {
           "abbreviation" : "WIU",
-          "prestige" : "31",
+          "prestige" : "25",
           "hexColor" : "#663399",
           "rival" : "UNI",
           "headCoach" : {
@@ -2618,7 +2618,7 @@
         },
         {
           "abbreviation" : "YSU",
-          "prestige" : "28",
+          "prestige" : "25",
           "hexColor" : "#A71930",
           "rival" : "INST",
           "headCoach" : {
@@ -2714,7 +2714,7 @@
         }
       ],
       "confFullName" : "Missouri Valley FCS",
-      "confPrestige" : "15",
+      "confPrestige" : "25",
       "confName" : "MVFC"
     },
     {
@@ -2961,7 +2961,7 @@
         }
       ],
       "confFullName" : "Colonial Athletic FCS",
-      "confPrestige" : "15",
+      "confPrestige" : "25",
       "confName" : "CAA"
     }
   ],
