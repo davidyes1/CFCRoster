@@ -1239,7 +1239,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "70",
+          "prestige" : "68",
           "hexColor" : "#B7A369",
           "rival" : "USF",
           "headCoach" : {
@@ -1263,7 +1263,7 @@
         },
         {
           "abbreviation" : "USF",
-          "prestige" : "63",
+          "prestige" : "61",
           "hexColor" : "#006747",
           "rival" : "UCF",
           "headCoach" : {
@@ -1287,7 +1287,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "68",
+          "prestige" : "66",
           "hexColor" : "#E00112",
           "rival" : "MEM",
           "headCoach" : {
@@ -1311,7 +1311,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "62",
+          "prestige" : "60",
           "hexColor" : "#003087",
           "rival" : "CIN",
           "headCoach" : {
@@ -1335,7 +1335,7 @@
         },
         {
           "abbreviation" : "CONN",
-          "prestige" : "59",
+          "prestige" : "57",
           "hexColor" : "#000E2F",
           "rival" : "TEM",
           "headCoach" : {
@@ -1359,7 +1359,7 @@
         },
         {
           "abbreviation" : "TEM",
-          "prestige" : "61",
+          "prestige" : "59",
           "hexColor" : "#9E1B34",
           "rival" : "CONN",
           "headCoach" : {
@@ -1383,7 +1383,7 @@
         },
         {
           "abbreviation" : "HOU",
-          "prestige" : "62",
+          "prestige" : "60",
           "hexColor" : "#C8102E",
           "rival" : "SMU",
           "headCoach" : {
@@ -1407,7 +1407,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "59",
+          "prestige" : "57",
           "hexColor" : "#354CA1",
           "rival" : "HOU",
           "headCoach" : {
@@ -1431,7 +1431,7 @@
         },
         {
           "abbreviation" : "TUL",
-          "prestige" : "61",
+          "prestige" : "59",
           "hexColor" : "#336666",
           "rival" : "TLS",
           "headCoach" : {
@@ -1455,7 +1455,7 @@
         },
         {
           "abbreviation" : "TLS",
-          "prestige" : "60",
+          "prestige" : "58",
           "hexColor" : "#003366",
           "rival" : "TUL",
           "headCoach" : {
@@ -1726,7 +1726,7 @@
         }
       ],
       "confFullName" : "Mountain West Conference",
-      "confPrestige" : "42",
+      "confPrestige" : "40",
       "confName" : "MWC"
     },
     {
