@@ -76,7 +76,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "75",
+          "prestige" : "73",
           "hexColor" : "#FF8200",
           "rival" : "VAND",
           "headCoach" : {
@@ -220,7 +220,7 @@
         },
         {
           "abbreviation" : "VAND",
-          "prestige" : "73",
+          "prestige" : "71",
           "hexColor" : "#000000",
           "rival" : "TENN",
           "headCoach" : {
@@ -467,7 +467,7 @@
         },
         {
           "abbreviation" : "NW",
-          "prestige" : "75",
+          "prestige" : "73",
           "hexColor" : "#4E2A84",
           "rival" : "PUR",
           "headCoach" : {
@@ -594,7 +594,7 @@
         },
         {
           "abbreviation" : "FSU",
-          "prestige" : "75",
+          "prestige" : "73",
           "hexColor" : "#782F40",
           "rival" : "MIA",
           "headCoach" : {
@@ -714,7 +714,7 @@
         },
         {
           "abbreviation" : "UVA",
-          "prestige" : "81",
+          "prestige" : "80",
           "hexColor" : "#232D4B",
           "rival" : "VT",
           "headCoach" : {
@@ -793,7 +793,7 @@
         },
         {
           "abbreviation" : "WVU",
-          "prestige" : "76",
+          "prestige" : "74",
           "hexColor" : "#EAAA00",
           "rival" : "OKST",
           "headCoach" : {
@@ -1016,7 +1016,7 @@
         },
         {
           "abbreviation" : "WSU",
-          "prestige" : "80",
+          "prestige" : "77",
           "hexColor" : "#981E32",
           "rival" : "UW",
           "headCoach" : {
